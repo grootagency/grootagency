@@ -1951,6 +1951,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 60px !important;
+  }
+  .gallery-link > p > a{
+    font-size: 1.5em !important;
+    
+  }
+}
 #header.header-scrolled {
   background: rgba(255, 2555, 255, 0.8);
   transition: all 0.5s;
