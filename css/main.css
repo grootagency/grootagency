@@ -51,7 +51,7 @@
 
 body {
   color: #777777;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.625em;
@@ -118,7 +118,7 @@ a, a:focus, a:hover {
 
 h1, h2, h3,
 h4, h5, h6 {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   color: #222222;
   line-height: 1.2em !important;
   margin-bottom: 0;
@@ -130,7 +130,7 @@ h4, h5, h6 {
 .h4, .h5, .h6 {
   margin-bottom: 0;
   margin-top: 0;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   color: #222222;
 }
@@ -1952,15 +1952,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-@media (max-width: 768px) {
-  h1 {
-    font-size: 60px !important;
-  }
-  .gallery-link > p > a{
-    font-size: 1.5em !important;
-    
-  }
-}
+
 #header.header-scrolled {
   background: rgba(255, 2555, 255, 0.8);
   transition: all 0.5s;
@@ -2258,10 +2250,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-gap {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 .initial-gap {
-  padding: 50px 0;
+  padding: 10px 0;
 }
 .section-title {
   padding-bottom: 30px;
@@ -2402,7 +2394,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (max-width: 414px) {
   .banner-content h1 {
     font-size: 32px;
-    padding-top: 30%;
+    padding-top: 10%;
   }
 }
 
@@ -2473,6 +2465,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .facts-area {
   background-color: #FFD94E;
+  padding: 70px 0 !important;
 }
 
 .single-fact h1 {
@@ -2504,8 +2497,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-feature {
   background-color: #fff;
-  padding: 30px;
-  margin-bottom: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2600,7 +2593,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-  padding-top: 100px;
+  padding: 100px 0;
   background-color: #002233;
 }
 

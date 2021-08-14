@@ -4214,7 +4214,7 @@ blockquote em, blockquote i, blockquote cite {
   }
    body.error404.responsive-ux #content_wrap,
   .responsive-ux #wrap {
-    padding-top: 80px;
+    padding-top: 20px;
   }
   .responsive-ux.show-top-space #content, 
   .responsive-ux .blog-list > article, 
