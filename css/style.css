@@ -3795,7 +3795,7 @@ input, textarea, select, button, legend, input[type="submit"], button
 /* Mian Heading font */
 h1,h2,h3,h4,h5,h6,body.single .title-wrap-tit,.title-wrap-h1, .archive-grid-item-tit,.title-wrap-meta-a,.archive-grid-item-meta-item 
 {
-  font-family: 'Libre Baskerville', serif; font-weight: 700; letter-spacing: 0.5px; 
+  font-family: 'Poppins', serif; font-weight: 700; letter-spacing: 0.5px; 
 }
 
 /* Text Logo */
@@ -3820,7 +3820,7 @@ h1,h2,h3,h4,h5,h6,body.single .title-wrap-tit,.title-wrap-h1, .archive-grid-item
 /* Menu Item on Expanded Panel*/
 #navi a 
 { 
-  font-family: 'Libre Baskerville', serif;  font-weight: 700; font-style: normal; font-size: 36px;
+  font-family: 'Poppins', serif;  font-weight: 700; font-style: normal; font-size: 36px;
 }
     
 /* Content Page Title */ 
@@ -3832,7 +3832,7 @@ body.single .title-wrap-tit,.title-wrap-h1
 /* Gallery Post Property Title */
 .gallery-info-property-tit 
 { 
-  font-family: 'Libre Baskerville', serif;  font-weight: 700; font-size: 16px;
+  font-family: 'Poppins', serif;  font-weight: 700; font-size: 16px;
 }
 
 /* Gallery Post Property Content*/
