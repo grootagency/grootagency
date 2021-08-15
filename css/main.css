@@ -2369,9 +2369,30 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-content{
   height: 450px;
-  padding-top: 10%;
-  /* margin-bottom: 20%; */
+  padding-top: 30%;
+  margin-bottom: 30%;
 }
+
+@media (max-width: 991.98px) {
+  .home-content {
+    margin-bottom: 30%;
+  }
+}
+
+
+@media (max-width: 1199.98px) {
+  .home-content {
+    margin-bottom: 30%;
+  }
+}
+
+@media (max-width: 414px) {
+  .home-content {
+    padding-top: 90%;
+    margin-bottom: 100%;
+  }
+}
+
 
 @media (max-width: 991.98px) {
   .banner-content h1 {
