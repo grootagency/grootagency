@@ -2375,7 +2375,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* margin-bottom: 30%; */
 }
 
-@media (max-width: 991.98px) {
+/* @media (max-width: 991.98px) {
   .home-content {
     margin-bottom: 30%;
   }
@@ -2393,7 +2393,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-top: 90%;
     margin-bottom: 100%;
   }
-}
+} */
 
 
 @media (max-width: 991.98px) {
