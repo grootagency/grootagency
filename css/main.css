@@ -2344,8 +2344,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
+  background: url(../img/groot.jpg) center;
   background-size: cover;
+  padding-top: 10% !important;
+  height: 100%;
 }
 
 .banner-area .overlay-bg {
@@ -2369,8 +2371,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-content{
   height: 450px;
-  padding-top: 30%;
-  margin-bottom: 30%;
+  padding-top: 10%;
+  /* margin-bottom: 30%; */
 }
 
 @media (max-width: 991.98px) {
