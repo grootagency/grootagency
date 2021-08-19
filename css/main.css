@@ -2707,7 +2707,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 0;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
-  padding: 8px 12px;
+  /* padding: 8px 12px; */
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
   border: 0;
 }
 
@@ -2724,7 +2728,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-footer-widget ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
-  color: #777777;
+  color: #fff;
   font-weight: 300;
 }
 

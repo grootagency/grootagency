@@ -154,7 +154,12 @@ textarea {
   height:75px; line-height: 1.5;
 }
 button, input[type="submit"],.ux-btn {
-  width: auto; height: 40px; line-height: 38px; margin-top: 10px; padding: 0 15px; border: 1px solid currentColor;
+  width: auto; 
+  height: 40px; 
+  /* line-height: 38px;  */
+  /* margin-top: 10px;  */
+  /* padding: 0 15px;  */
+  border: 1px solid currentColor;
 }
 .ux-btn:hover,input[type="submit"]:hover,button:hover {
   background-color: currentColor;
