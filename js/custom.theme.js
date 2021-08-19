@@ -262,7 +262,7 @@ var JS_PATH = "js";
 								var current_item_img_bg = current_item_img.attr('data-bg');
 								
 								if(current_item_img_bg){
-									current_item_img.addClass('lazy-loaded').css('background-image', 'url("' +current_item_img_bg+ '")');
+									current_item_img.addClass('lazy-loaded').css('background-image', 'url(" ")');
 									current_item_img.removeAttr('data-bg');
 								}
 							}
