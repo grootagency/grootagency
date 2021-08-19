@@ -2252,6 +2252,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 .section-gap {
   padding: 40px 0;
 }
+
+.contact-section-gap {
+  padding: 50px 0;
+}
 .initial-gap {
   padding: 50px 0;
 }
@@ -2344,14 +2348,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/groot.jpg) center;
+  background: url(../img/about_img.png) center;
   background-size: cover;
   padding-top: 10% !important;
   height: 100%;
 }
 
 .banner-area .overlay-bg {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .banner-content {
@@ -2371,7 +2375,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .home-content{
   height: 450px;
-  padding-top: 10%;
+  /* padding-top: 10%; */
   /* margin-bottom: 30%; */
 }
 
@@ -3150,7 +3154,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .blog-post-list .single-post {
   background: transparent;
-  padding: 0px 30px;
+  padding: 0px 20px;
 }
 
 .single-post {
